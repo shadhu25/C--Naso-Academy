@@ -1,2 +1,1 @@
-# C--Naso-Academy
-leaning C programming
+This repository is about my learning of C programming. I am leaning from Naso Academy youtube channel by Jaspreet Singh Sir. You will found my practice codes, excercises, and my own notes while learning C. If you found this repository useful, you can use it.
